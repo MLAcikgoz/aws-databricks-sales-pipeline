@@ -1,3 +1,5 @@
+![Header](https://img.shields.io/badge/Data%20Engineer-AWS%20%7C%20Databricks%20%7C%20PowerBI-blue?style=for-the-badge)
+
 # aws-databricks-sales-pipeline
 End-to-end data pipeline project built with AWS, Databricks, and Power BI
 # AWS–Databricks Sales Pipeline
