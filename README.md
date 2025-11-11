@@ -17,8 +17,8 @@ Developed as part of my **Data Engineering portfolio**.
 - **Automation:** AWS Lambda + SNS notifications  
 
 📊 ![Pipeline Diagram]
+<img width="256" height="390" alt="ChatGPT Image 11 Kas 2025 20_54_06" src="https://github.com/user-attachments/assets/be7e1d77-0faf-4db5-a63f-734c5b19693b" />
 
----<img width="102" height="153" alt="pipeline diagram" src="https://github.com/user-attachments/assets/192bfd79-6b73-42f6-b466-b3287cd77413" />
 
 
 ## 🧠 Key Learnings
