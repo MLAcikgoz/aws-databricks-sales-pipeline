@@ -18,7 +18,7 @@ Developed as part of my **Data Engineering portfolio**.
 
 📊 ![Pipeline Diagram]
 
----<img width="1024" height="1536" alt="pipeline diagram" src="https://github.com/user-attachments/assets/192bfd79-6b73-42f6-b466-b3287cd77413" />
+---<img width="102" height="153" alt="pipeline diagram" src="https://github.com/user-attachments/assets/192bfd79-6b73-42f6-b466-b3287cd77413" />
 
 
 ## 🧠 Key Learnings
