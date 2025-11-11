@@ -16,9 +16,10 @@ Developed as part of my **Data Engineering portfolio**.
 - **Visualization:** Power BI dashboards  
 - **Automation:** AWS Lambda + SNS notifications  
 
-📊 ![Pipeline Diagram](docs/pipeline_diagram.png)
+📊 ![Pipeline Diagram]
 
----
+---<img width="1024" height="1536" alt="pipeline diagram" src="https://github.com/user-attachments/assets/192bfd79-6b73-42f6-b466-b3287cd77413" />
+
 
 ## 🧠 Key Learnings
 - Designed a **modular Medallion architecture**  
